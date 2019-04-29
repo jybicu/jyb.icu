@@ -9,6 +9,7 @@
 #### 推荐
 
 * UOJ 用户群：197293072
+* LOJ 用户群：631401747
 * 文化课交流群：831318909
 * OI Wiki: [588793226](https://jq.qq.com/?_wv=1027&k=5EfkM6K) [@OIwiki](https://t.me/OIwiki)
 
