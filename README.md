@@ -11,6 +11,7 @@
 * UOJ 用户群：197293072
 * 文化课交流群：831318909
 * OI Wiki: [588793226](https://jq.qq.com/?_wv=1027&k=5EfkM6K) [@OIwiki](https://t.me/OIwiki)
+* CCF NOI: [全国青少年信息学奥林匹克竞赛](http://www.noi.cn/)
 
 #### 广告
 
