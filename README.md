@@ -4,7 +4,7 @@
 
 这个项目旨在帮助竞赛党了解竞赛相关动态，以及为 OIer 提供 OI / 文化课学习的帮助。
 
-为 [jyb.icu](/) 添加内容？请移步 [issue](https://github.com/jybicu/jyb.icu/issues/4) 。
+为 [jyb.icu](https://jybicu/jyb.icu) 添加内容？请移步 [issue](https://github.com/jybicu/jyb.icu/issues/4) 。
 
 #### 资源
 
