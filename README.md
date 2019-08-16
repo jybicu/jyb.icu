@@ -12,6 +12,7 @@
 * UOJ 用户群：197293072
 * 文化课交流群：831318909
 * OI Wiki: [588793226](https://jq.qq.com/?_wv=1027&k=5EfkM6K) [@OIwiki](https://t.me/OIwiki)
+* [CCF关于暂停NOIP竞赛的公告](http://www.noi.cn/newsview.html?id=932&hash=72F731&type=1http://www.noi.cn/newsview.html?id=932&hash=72F731&type=1)
 
 #### 广告
 
