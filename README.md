@@ -12,7 +12,7 @@
   * [视频课](https://github.com/jybicu/whk/tree/master/%E8%A7%86%E9%A2%91%E8%AF%BE)
     包含学而思、北京四中，部分科目有万门教育的网课，以百度网盘分享链接的形式给出。
 * UOJ 用户群：197293072
-* 文化课交流群：831318909
+* 文化课交流群：463471261
 * OI Wiki: [588793226](https://jq.qq.com/?_wv=1027&k=5EfkM6K) [@OIwiki](https://t.me/OIwiki)
 
 #### 广告
