@@ -14,6 +14,7 @@
 * UOJ 用户群：197293072
 * 文化课交流群：463471261
 * OI Wiki: [588793226](https://jq.qq.com/?_wv=1027&k=5EfkM6K) [@OIwiki](https://t.me/OIwiki)
+* 语文学习Wiki：[Chi-Wiki](https://chi.aqours.life/)
 
 #### 广告
 
