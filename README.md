@@ -11,6 +11,7 @@
 * [文化课资料共享仓库](https://github.com/jybicu/whk)
   * [视频课](https://github.com/jybicu/whk/tree/master/%E8%A7%86%E9%A2%91%E8%AF%BE)
     包含学而思、北京四中，部分科目有万门教育的网课，以百度网盘分享链接的形式给出。
+* [高中课本](https://github.com/ReekyStive/high-school-textbooks)
 * [高考古诗词 64 篇](https://github.com/ReekyStive/poem_64)
 * UOJ 用户群：197293072
 * 文化课交流群：463471261
